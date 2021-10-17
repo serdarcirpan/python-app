@@ -1,2 +1,2 @@
 # python-app
-python test app
+python requests module test app
